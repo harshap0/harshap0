@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Harsha Patel 👋
 
-<!--
-**harshap0/harshap0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Open Source Contributor (GSSoC 2026)
 
-Here are some ideas to get you started:
+💻 Python Developer | Backend Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Student at Parul University
+
+## Tech Stack
+- Python
+- JavaScript
+- React
+- FastAPI
+- Git & GitHub
+
+## Current Goals
+- Contribute to Open Source
+- Build AI Projects
+- Improve Backend Development Skills
+- Crack a Software Development Internship
+
+## Connect With Me
+📧 patelharsha371@gmail.com
