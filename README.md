@@ -4,7 +4,7 @@
 
 💻 Python Developer | Backend Enthusiast
 
-🎓 B.Tech Student at Parul University
+🎓 B.Tech Student at Parul University 
 
 ## Tech Stack
 
