@@ -1,6 +1,6 @@
 # Hi, I'm Harsha Patel 👋
 
-🚀 Open Source Contributor (GSSoC 2026)
+🚀 Open Source Contributor (GSSoC 2026) 
 
 💻 Python Developer | Backend Enthusiast
 
