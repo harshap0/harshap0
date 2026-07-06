@@ -19,12 +19,12 @@
 - Contribute to Open Source
 - Build AI Projects
 - Improve Backend Development Skills
-- Crack a Software Development Internship
+- Crack a Software Development Internship 
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&count_private=true)
-
+ 
 ## Connect With Me
 
 📧 patelharsha371@gmail.com 
