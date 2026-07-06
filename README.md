@@ -1,4 +1,4 @@
-# Hi, I'm Harsha Patel 👋
+# Hi, I'm Harsha Patel 👋 
 
 🚀 Open Source Contributor (GSSoC 2026) 
 
