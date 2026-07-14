@@ -14,19 +14,21 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
  
+## 🏆 Achievements
+
+- 🚀 GSSoC 2026 Contributor
+- ✅ 18+ Pull Requests Merged
+- 💻 Open Source Contributor
+- 🐍 Python Developer
+- ⚡ FastAPI Enthusiast
+
+
 ## Current Goals
 
 - Contribute to Open Source
 - Build AI Projects
 - Improve Backend Development Skills
-- Crack a Software Development Internship 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshap0&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshap0&layout=compact&theme=radical)           
-
+- Crack a Software Development Internship   
 
 
 ## Connect With Me
