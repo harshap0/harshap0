@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&theme=tokyonight" />
  
 ## Connect With Me
 
