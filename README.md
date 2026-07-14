@@ -23,11 +23,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&theme=tokyonight" />
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&theme=radical)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshap0&layout=compact&theme=tokyonight" />    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshap0&layout=compact&theme=radical) 
 ## Connect With Me
 
 📧 patelharsha371@gmail.com 
