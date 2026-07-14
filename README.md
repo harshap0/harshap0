@@ -21,10 +21,13 @@
 - Improve Backend Development Skills
 - Crack a Software Development Internship 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshap0&show_icons=true&theme=tokyonight" />
- 
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshap0&layout=compact&theme=tokyonight" />    
 ## Connect With Me
 
 📧 patelharsha371@gmail.com 
